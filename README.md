@@ -22,7 +22,9 @@ In [Capstone 2 EDA](https://github.com/jonarms/Capstone2/blob/361c9f6b2c28faba14
 
 In [STAAR_Preprossessing](https://github.com/jonarms/Capstone2/blob/20e7ffa9883684f51a610e11b770bda28a1d1946/STAAR_Preprocessing.ipynb) two categorical variables are reintroduced into the dataset and dummy variables are created. 
 
-In [STAAR_Model_Selection](https://github.com/jonarms/Capstone2/blob/e2ef2ef5d0894eca758a66f68b54029b04f6d380/STAAR_Modeling_Selection.ipynb) the data is split into training and testing sets, scaled, and modeled using various algorithms. The model is then further assessed using 2019 data, and finally used to forcast 2020 STAAR scores with the alterations mentioned above. 
+In [STAAR_Model_Selection](https://github.com/jonarms/Capstone2/blob/e2ef2ef5d0894eca758a66f68b54029b04f6d380/STAAR_Modeling_Selection.ipynb) the data is split into training and testing sets, scaled, and modeled using various algorithms. The model is then further assessed using 2019 data, and finally used to forcast 2020 STAAR scores with the alterations mentioned above.
+
+### Results
 
 This method was able to predict an improvement of more than 10% for both of the districts measured by recommending moderate improvements to:
 
